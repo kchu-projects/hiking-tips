@@ -204,6 +204,9 @@ ever-thinning air.
 ***If you feel incredibly uncomfortable during your climb due to mountain
 sickness, consider abandoning the hike altogether.***
 
+Your tour guide will not allow you to bullet climb, so rest assured. Bullet
+climbing usually happens when you don't have a tour guide to regulate your pace.
+
 ### Plants and Animals on the Trail
 
 The trail is clearly defined. It has been cleared of plants, although you can
