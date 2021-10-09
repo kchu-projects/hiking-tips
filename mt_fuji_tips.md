@@ -1,10 +1,3 @@
----
-title: "For Those Who Want to Climb Mt Fuji"
-author: "K. Chu"
-date: "10/9/2021"
-output: html_document
----
-
 # Climbing the Mountain
 
 Climbing Mt. Fuji is a rewarding hiking challenge. It is Japan's tallest
