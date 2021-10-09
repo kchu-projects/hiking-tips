@@ -14,19 +14,19 @@ discomfort.
 I will leave a list of supplies that I recommend that you get here. I will
 describe in detail why you should get them later down below.
 
-#. Snacks
-#. Water
-#. Garbage bag
-#. Oxygen
-#. 100 yen coins
-#. Camera supplies
-#. Face towel
-#. Hat
-#. Gloves
-#. Headlamp and extra batteries
-#. Eye mask and ear plugs
-#. Toilet paper
-#. Toothbrush
+1. Snacks
+2. Water
+3. Garbage bag
+4. Oxygen
+5. 100 yen coins
+6. Camera supplies
+7. Face towel
+8. Hat
+9. Gloves
+10. Headlamp and extra batteries
+11. Eye mask and ear plugs
+12. Toilet paper
+13. Toothbrush
 
 # The Plan
 
@@ -505,19 +505,19 @@ own water supplies.
 
 In summary, bring the following in your backpack:
 
-#. Snacks
-#. Water
-#. Garbage bag
-#. Oxygen
-#. 100 yen coins
-#. Camera supplies
-#. Face towel
-#. Hat
-#. Gloves
-#. Headlamp and extra batteries
-#. Eye mask and ear plugs
-#. Toilet paper
-#. Toothbrush
+1. Snacks
+2. Water
+3. Garbage bag
+4. Oxygen
+5. 100 yen coins
+6. Camera supplies
+7. Face towel
+8. Hat
+9. Gloves
+10. Headlamp and extra batteries
+11. Eye mask and ear plugs
+12. Toilet paper
+13. Toothbrush
 
 ### 4. Financial Costs
 
