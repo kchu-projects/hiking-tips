@@ -461,6 +461,10 @@ keeping 2,000 yen in 100 yen coins will be more than enough. I personally used
 only 400 yen this way, but I think it was because I kept sweating that I barely
 needed to use the bathroom.
 
+You may also use the coin locker. You will use 100 yen coins to pay the 500 yen
+needed to use the coin locker. Insert the coins into the slot as you take the
+key. Be sure to keep the key safe. Do not lose the key.
+
 You may bring a change of clothes, but from my experience, I don't recommend it.
 Your clothes might get wet if water somehow gets into your pack, and that will
 just weigh you down even more. This is especially true if your clothes are made
