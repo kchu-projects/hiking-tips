@@ -174,9 +174,9 @@ the sun descends into the horizon on the other side of the mountain. You will
 also get to see the shadow of the mountain behind you as you make the rest of
 the way to the lodge.
 
-### Falling Rocks and Safety
+### Falling Pebbles and Safety
 
-Rocks may fall during your ascent, however, so you should try to keep yourself
+Pebbles may fall during your ascent, however, so you should try to keep yourself
 safe. There are rock shelters, so you can take refuge in these places.
 
 It is also possible to rent a helmet during the ascent. The helmet will be
