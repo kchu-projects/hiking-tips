@@ -32,10 +32,10 @@ describe in detail why you should get them later down below.
 
 I'll outline a general plan here.
 
-#. Get to the base camp
-#. Ascend to the lodge
-#. Summit
-#. Descend back to base camp
+1. Get to the base camp
+2. Ascend to the lodge
+3. Summit
+4. Descend back to base camp
 
 First time climbers are recommended to take the Yoshida route, which is also the
 same route that I took.
