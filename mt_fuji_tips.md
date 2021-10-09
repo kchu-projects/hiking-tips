@@ -64,8 +64,8 @@ website, with [a reservation page for the Yoshida route.](https://www.sunshineto
 There are various upgrade options to consider. There is an option to buy lunch
 for the first day at a discounted price. There is also the option to buy a
 larger seat in the bus. It is also possible to rent your equipment. Finally,
-there is also an option to upgrade the buffet lunch into a sumptuous Japanese
-feast.
+there is also an option to upgrade the buffet lunch at the hotel resort after
+your hike into a sumptuous Japanese feast.
 
 The only upgrade option I recommend is to rent your equipment if you don't
 already have a set of hiking gear.
@@ -528,7 +528,10 @@ In summary, bring the following in your backpack:
 
 ### 4. Financial Costs
 
-The tour package itself costs around 25,000 yen.
+The tour package itself costs around 25,000 yen. This includes the bus fare,
+your reservation at the lodge, dinner of the first day, breakfast of the second
+day, lunch at the hotel resort, and the use of the onsen facilities at the hotel
+resort.
 
 Renting the seven piece set costs around 10,000 yen.
 
