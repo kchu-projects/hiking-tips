@@ -492,7 +492,7 @@ making it back to base camp.
 
 Make sure to bring your camera supplies. In my case, I brought along my GoPro,
 so I brought along extra batteries and an extra memory card. Be sure to store
-them in securely.
+them securely.
 
 You may bring a towel, but I recommend a face towel. A bath towel is just too
 large, and it also runs the risk of weighing you down if water somehow gets into
