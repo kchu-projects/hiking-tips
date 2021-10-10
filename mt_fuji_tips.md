@@ -42,7 +42,7 @@ same route that I took.
 
 The first thing with the trip is to get to the base camp at the 5th Station via
 bus. The hike proper starts after lunch. The ascent to the lodge will take up
-the whole afternoon. Dinner and a good night's rest waits at the lodge. If
+the whole afternoon. Dinner and a good night's rest await you at the lodge. If
 weather is good, the hike continues before dawn, in the darkness, with the goal
 to reach the peak to catch the sunrise.
 
