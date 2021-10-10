@@ -143,6 +143,13 @@ The Yoshida route is a winding path. It is littered with pebbles and the
 occasional rock path where you might crawl on all fours as you try to navigate
 the rocky slope. You might have to constantly watch your step.
 
+One tip I can give is that during sections with stone stairs, put your feet
+right next to the bottom of the stair. Lift one foot over the edge and then
+bring your other foot over. The idea is to save energy, and you won't exert as
+much effort as you minimize the "diagonal" movement. The diagonal movement will
+be maximized if you try to step from one stair and directly to the next. Repeat
+for all stairs until you reach the top.
+
 Higher up on the Yoshida route, on a clear day, you will be able to see
 Lakes Kawaguchi and Yamanaka. You might even get to see Enoshima in the
 distance.
@@ -277,6 +284,13 @@ good weather.
 Descent on the Yoshida route will be on a different trail from the one used for
 the ascent. Descent won't be too hard, but you need to protect your ankles from
 pebbles. Gaiters will be important in this part of the hike.
+
+A tip I can offer here as you navigate the gravel is to use the outer edge of
+your shoes to dig into the pebbles. You'll be able to cover more ground this
+way. Your feet should fan out, forming a V. The left side of your left foot
+should dig into the gravel while the right side of your right foot should dig
+into the gravel. You will slide down a bit, but you want to let gravity help you
+a little bit more here.
 
 You won't be fighting gravity as much as you did during the ascent, so you
 should be able to finish the descent in around two or three hours. You will
